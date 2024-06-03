@@ -1,0 +1,16 @@
+JDK = Java Development Kit
+- Useful for compiling and debugging java programs.
+- Contains JRE.
+
+JRE = Java Runtime Enviroment
+- Executing java programs.
+- Contains class libraries.
+- Contains JVM.
+
+JVM = Java Virtual Machine
+- Part of JRE only.
+- Will actually execute our java programs.
+
+JDK - JRE
+
+first.java --> javac (java compiler) --> first.class // [java First] (to execute java program)
